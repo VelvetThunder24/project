@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+}
+.banner-card img{max-width: 100%; height: auto;}
+
+.size{
+    size: 2rem;
+}
+
+body {
+    background-color: antiquewhite;
+    font-size: 25px;
+}
+
+div {
+    width: 100%;
+    
+}
+
+.yash {
+   font-size: 28px;
+}
+
+#poster {
+    margin-left: 25%;
+    text-align: center; 
+    padding-top: 10%;
+   
+}
+#orange {
+    width: 800px;
+    height: 800px;
+}
+
+#apple {
+    margin-left: 25%;
+    text-align: center; 
+    padding-top: 10%;
+   
+}
+    
